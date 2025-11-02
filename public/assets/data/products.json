@@ -1,0 +1,32 @@
+{
+    "featuredProducts": [
+      {
+        "id": 1,
+        "name": "The Waffle Long-Sleeve Crew",
+        "brand": "Bone",
+        "price": 60,
+        "image": "/assets/item1.png",
+        "sizes": ["S", "M", "L", "XL"],
+        "category": "shirts"
+      },
+      {
+        "id": 2,
+        "name": "The Bomber Jacket | Uniform",
+        "brand": "Yeezy", 
+        "price": 120,
+        "image": "/assets/item2.png",
+        "sizes": ["S", "M", "L", "XL"],
+        "category": "outerwear"
+      }
+    ],
+    "categories": [
+      {
+        "name": "SHIRTS",
+        "image": "/assets/shirt.png"
+      },
+      {
+        "name": "DENIM", 
+        "image": "/assets/jeans.png"
+      }
+    ]
+  }
