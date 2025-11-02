@@ -208,7 +208,7 @@ img {
   grid-template-columns: 1fr 1fr;
   gap: 0px;
   text-align: left;
-  min-height: 500px; /* Reduced height */
+  min-height: 500px; 
 }
 
 .transparency-image {
